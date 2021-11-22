@@ -4,3 +4,6 @@ class A:
 
     def SecondProgram(self):
         print("My second program")
+
+    def third_program(self):
+        print("My third program")
