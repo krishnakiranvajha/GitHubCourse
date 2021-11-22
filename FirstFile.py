@@ -4,3 +4,8 @@ class A:
 
     def SecondProgram(self):
         print("My second program")
+
+    def split_method(self):
+        s = "kiran"
+        s.split('k')
+        print(s)
